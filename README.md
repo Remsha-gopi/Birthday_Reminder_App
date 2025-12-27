@@ -24,6 +24,9 @@ A desktop application built with **Python** and **Tkinter** to manage and track 
 
 ---
 
+## Preview
+![Sample output](image.png)
+
 ## Author
 
 Remsha Gopi
