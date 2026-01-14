@@ -126,5 +126,3 @@ highlight_upcoming(7)
 
 root.mainloop()
 
-
-
